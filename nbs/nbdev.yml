@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-experimental"
+  site-url: "https://ndendic.github.io/nbdev-experimental"
+  description: "Experimenting with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/ndendic/nbdev-experimental"
